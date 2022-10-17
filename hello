@@ -2,4 +2,4 @@
 
 NAME="Leila"
 
-echo "Hello ${NAME}"
+echo "Hi ${NAME}"
